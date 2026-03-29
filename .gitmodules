@@ -1,0 +1,9 @@
+[submodule "student-service"]
+	path = student-service
+	url = https://github.com/virajdilshan2002/student-service.git
+[submodule "program-service"]
+	path = program-service
+	url = https://github.com/virajdilshan2002/program-service.git
+[submodule "enrollment-service"]
+	path = enrollment-service
+	url = https://github.com/virajdilshan2002/enrollment-service.git
